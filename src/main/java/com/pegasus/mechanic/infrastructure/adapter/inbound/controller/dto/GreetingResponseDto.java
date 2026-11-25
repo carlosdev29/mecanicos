@@ -1,4 +1,4 @@
-package com.pegasus.mechanic.infrastructure.inbound.controller.dto;
+package com.pegasus.mechanic.infrastructure.adapter.inbound.controller.dto;
 
 public class GreetingResponseDto {
 	
